@@ -7,7 +7,7 @@ My portfolio will show you a bit of my skills. This will be the base repository 
 
 ## Works
 #### Rise Top
-I've been working on Rise Top for more than a year as the only programmer.
+I've been working on Rise Top for more than a year as the only programmer in the team.
 
 https://play.google.com/store/apps/details?id=com.sacagama.risetothetop
 
