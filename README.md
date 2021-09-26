@@ -1,7 +1,7 @@
 # Portfolio
 I'm a developer who loves programming and videogames. 
 
-Right now im focused in the post-launch development support for the game Rise Top.
+Right now im focused in the post-launch development for the game Rise Top.
 
 My portfolio will show you a bit of my skills. This will be the base repository and i will link here my Unity works and little projects as portfolio.
 
