@@ -16,6 +16,7 @@ https://play.google.com/store/apps/details?id=com.sacagama.risetothetop
 
 ## Projects
 This are a few projects that I did during the Higher education studies (in Spain named: CFGS).
+
 **VR_Shooter:** https://github.com/crisdiaz-github/VR_Shooter
 
 **FishNinja** https://github.com/crisdiaz-github/FishNinja
