@@ -15,7 +15,7 @@ https://play.google.com/store/apps/details?id=com.sacagama.risetothetop
 
 
 ## Projects
-These are a few projects that I made during the Higher education studies (in Spain named: CFGS).
+These are a few projects that I made during my last year in the Higher education studies (in Spain named: CFGS).
 
 **VR_Shooter:** https://github.com/crisdiaz-github/VR_Shooter
 
