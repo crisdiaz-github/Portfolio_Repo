@@ -13,6 +13,6 @@ https://play.google.com/store/apps/details?id=com.sacagama.risetothetop
 
 
 ## Projects
-#### VR_Shooter: https://github.com/crisdiaz-github/VR_Shooter
+**VR_Shooter:** https://github.com/crisdiaz-github/VR_Shooter
 
-#### FishNinja: https://github.com/crisdiaz-github/FishNinja
+**FishNinja** https://github.com/crisdiaz-github/FishNinja
