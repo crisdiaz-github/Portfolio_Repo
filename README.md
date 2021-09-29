@@ -16,5 +16,5 @@ https://play.google.com/store/apps/details?id=com.sacagama.risetothetop
 #### VR_Shooter: https://github.com/crisdiaz-github/VR_Shooter
 
 ## License
-All contents of this site are ©Copyright 2021 Cristian Diaz Caballero. All rights reserved.
+All contents of my repositories are ©Copyright 2021 Cristian Diaz Caballero. All rights reserved.
 - Contact: cristiandiazgithub@gmail.com
