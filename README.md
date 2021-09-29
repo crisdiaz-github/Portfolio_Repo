@@ -7,7 +7,7 @@ My portfolio will show you a bit of my skills. This will be the base repository 
 
 ## Works
 #### Rise Top
-I've been working on Rise Top for more than a year as the only programmer in the SACAGAMA.
+I've been working on Rise Top for more than a year as the only programmer in SACAGAMA.
 
 I learned a lot in the development of the game, learning and integrating plugins like **Google Play Services**, **Google analytics** or **AdMob** was and amazing adventure.
 
