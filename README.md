@@ -6,8 +6,8 @@ Right now im focused in the post-launch development for the game **Rise Top** la
 My portfolio will show you a bit of my skills. This will be the base repository and i will link here my Unity works and little projects.
 
 ## Works
-#### [Rise Top](https://play.google.com/store/apps/details?id=com.sacagama.risetothetop)
-I've been working on Rise Top for more than a year as the only programmer in SACAGAMA.
+#### [Infinite Rise](https://play.google.com/store/apps/details?id=com.sacagama.risetothetop)
+I've been working on Infinite Rise for more than a year as a programmer in SACAGAMA.
 
 I learned a lot in the development of the game, learning and integrating important features like **Google Play Services**, **Google Analytics** or **AdMob** was an amazing adventure.
 
