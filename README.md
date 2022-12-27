@@ -1,7 +1,7 @@
 # Portfolio
 I'm a developer who loves programming and videogames. 
 
-Right now im focused in the post-launch development for the game **Rise Top** launched in January 2021 for Android devices in the Play Store.
+Right now im searching for job offers.
 
 My portfolio will show you a bit of my skills. This will be the base repository and i will link here my Unity works and little projects.
 
