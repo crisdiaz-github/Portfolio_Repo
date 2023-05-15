@@ -20,4 +20,4 @@ These are a few of my projects.
 
 **FPS_Online** https://github.com/crisdiaz-github/FishNinja
 
-**WebGlDNDTest** https://github.com/crisdiaz-github/Webglprueba
+**WebGLDNDTest** https://github.com/crisdiaz-github/Webglprueba
