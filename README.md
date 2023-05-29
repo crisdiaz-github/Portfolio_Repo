@@ -16,8 +16,8 @@ These are a few of my projects.
 
 **VR_Shooter:** https://github.com/crisdiaz-github/VR_Shooter
 
-**FishNinja** https://github.com/crisdiaz-github/FishNinja
+**Fish_Ninja** https://github.com/crisdiaz-github/FishNinja
 
 **FPS_Online** https://github.com/crisdiaz-github/FishNinja
 
-**WebGLDNDTest** https://github.com/crisdiaz-github/Webglprueba
+**WebGL_DND_Test** https://github.com/crisdiaz-github/Webglprueba
